@@ -1,8 +1,9 @@
 package br.edu.ifpi.jobsapp.model;
 
 import java.util.ArrayList;
+import br.edu.ifpi.jobsapp.interfaces.*;
 
-public class Empresa {
+public class Empresa implements Autenticable, Localizable{
 
 	private String nomeCompleto;
 	private Local local;
@@ -80,6 +81,7 @@ public class Empresa {
 	public void setVagas(ArrayList<Vaga> vagas) {
 		this.vagas = vagas;
 	}
+	
 
 	@Override
 	public String toString() {
