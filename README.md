@@ -6,3 +6,7 @@
 ###
 
 ### adicionei tambem o modelo antigo
+
+### Diagrama de Classes
+
+![Diagrama de Classe](ClassDiagram.png)
