@@ -1,4 +1,5 @@
 package br.edu.ifpi.jobsapp.app;
+
 import br.edu.ifpi.jobsapp.model.*;
 
 public class Main

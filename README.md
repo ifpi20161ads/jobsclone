@@ -1,13 +1,16 @@
-## main branch JobsApp
-###
-###
+## JobsApp Application
 
-### develop team members
+### Team Members
 * Daniel Farias
 * Dheyson Lee
 * Mateus Oliveira
 * Osmar Júnior
 
-### Diagrama de Classes
+### Description
+
+TODO
+
+### Class Diagram
 
 ![Diagrama de Classe](ClassDiagram.png)
+
