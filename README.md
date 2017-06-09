@@ -1,11 +1,12 @@
-## branch principal do JobsApp
-### galera, facam uns clones desse cara,
-### autorizei voces como contribuidores
-
+## main branch JobsApp
 ###
 ###
 
-### adicionei tambem o modelo antigo
+### develop team members
+* Daniel Farias
+* Dheyson Lee
+* Mateus Oliveira
+* Osmar Júnior
 
 ### Diagrama de Classes
 
